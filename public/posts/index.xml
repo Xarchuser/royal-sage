@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Paulo Network</title>
+        <link>https://pauloroxx.netlify.com/posts/</link>
+        <description>Recent content in Posts on Paulo Network</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Sun, 05 Apr 2020 21:53:01 -0300</lastBuildDate>
+        <atom:link href="https://pauloroxx.netlify.com/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Test Post</title>
+            <link>https://pauloroxx.netlify.com/posts/2020/04/test-post/</link>
+            <pubDate>Sun, 05 Apr 2020 21:53:01 -0300</pubDate>
+            
+            <guid>https://pauloroxx.netlify.com/posts/2020/04/test-post/</guid>
+            <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac tempor enim, a pharetra dui. Phasellus sem tellus, fringilla ac justo non, convallis egestas ante. Vestibulum hendrerit sodales elit sed convallis. Sed at ligula eget velit sagittis maximus. Sed urna turpis, mollis vel bibendum nec, pharetra quis diam. Maecenas sit amet gravida nisl, condimentum gravida ipsum. Pellentesque maximus velit ac sagittis sodales. Vivamus ullamcorper feugiat porttitor. Sed tristique eget diam quis semper.</description>
+            <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac tempor enim, a pharetra dui. Phasellus sem tellus, fringilla ac justo non, convallis egestas ante. Vestibulum hendrerit sodales elit sed convallis. Sed at ligula eget velit sagittis maximus. Sed urna turpis, mollis vel bibendum nec, pharetra quis diam. Maecenas sit amet gravida nisl, condimentum gravida ipsum. Pellentesque maximus velit ac sagittis sodales. Vivamus ullamcorper feugiat porttitor. Sed tristique eget diam quis semper. Quisque euismod neque eu odio iaculis, ut tempor sem commodo. Mauris et bibendum tortor, vitae tempor felis. Proin nec tellus ullamcorper, sodales tellus sit amet, mattis leo. Nullam sit amet justo sed velit cursus fringilla. Donec leo diam, elementum ac ultrices sed, fermentum vitae lorem. Donec scelerisque nunc et tortor accumsan scelerisque in in nisl. Mauris ac velit vitae dui congue dapibus.</p>
+<p>Fusce suscipit ex lectus, id viverra sem fringilla rhoncus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor et turpis quis aliquet. Duis lacinia arcu efficitur accumsan ornare. Sed eu nulla nisi. Duis fringilla tortor eget leo varius, vel sodales est efficitur. Praesent convallis accumsan tellus, et porttitor enim ultricies non. Vestibulum feugiat lacus vitae felis luctus convallis. Nullam eget dui sit amet ex laoreet dictum. Aenean vel orci venenatis nulla aliquet egestas non quis diam. Praesent nisl tortor, pretium quis erat quis, venenatis lacinia ante. Suspendisse malesuada pretium elit, nec interdum diam tristique in.</p>
+<p>Nulla facilisi. Mauris sed tincidunt lacus, a sollicitudin lorem. Cras tempus nunc sed nulla semper, ut sollicitudin risus pharetra. Curabitur sed est hendrerit, porttitor elit congue, accumsan odio. In vitae auctor orci, in iaculis dolor. Mauris aliquet nunc justo, non condimentum nisl gravida ut. Nam interdum, dolor id elementum semper, lacus urna vulputate erat, sit amet bibendum eros velit a nisl. Proin sed libero ultrices, efficitur erat id, porttitor lorem. Curabitur lacinia porta metus ut imperdiet. Phasellus pellentesque dolor vitae mauris ultrices rutrum. Sed molestie lobortis dolor, sed ultricies nibh efficitur ut. Cras sit amet justo ante. Integer tristique ac sapien nec blandit. Vivamus efficitur tincidunt pretium.</p>
+<p>Duis a augue risus. Phasellus pretium nec eros a ultrices. Proin sagittis rutrum leo vel varius. Phasellus scelerisque erat maximus magna egestas, ut faucibus leo dignissim. Nulla bibendum porttitor augue id pretium. Mauris euismod est non leo laoreet, ac lobortis enim cursus. Vivamus iaculis pretium ligula ut elementum. Pellentesque aliquet urna sed condimentum finibus. Cras in erat arcu. Sed ut justo sed velit lacinia vulputate et a lectus. Aliquam mattis diam vitae nisl laoreet gravida in sed felis. Etiam pretium risus sit amet dolor imperdiet, eget venenatis erat laoreet. Nulla facilisi. Vestibulum sit amet turpis finibus, dictum nunc in, hendrerit est.</p>
+<p>Nam ac mauris quis libero commodo posuere. Fusce at laoreet odio. Sed convallis luctus dui, a faucibus lectus pulvinar sit amet. Etiam congue sed nulla ac aliquet. Nam sit amet tristique erat. Vestibulum sagittis sapien dolor, id mollis est tempor ac. Sed imperdiet lobortis efficitur. Vestibulum placerat nec augue nec vestibulum.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

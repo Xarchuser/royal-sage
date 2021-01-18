@@ -1,0 +1,97 @@
+DefaultContentLanguage = "pt-br"
+PygmentsCodeFences = true
+PygmentsStyle = "monokai"
+archetypeDir = "archetypes"
+baseURL = "https://roxx.netlify.app"
+buildDrafts = true
+buildExpored = false
+buildFuture = false
+canonifyURLs = true
+contentDir = "content"
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+dataDir = "data"
+disable404 = false
+disableHugoGeneratorInject = false
+disableRSS = false
+disableSitemap = false
+enableEmoji = true
+enableGitInfo = true
+enableMissingTranslationPlaceholders = false
+enableRobotsTXT = true
+layoutDir = "layouts"
+publishDir = "public"
+rssLimit = 10
+theme = "hello-friend-ng"
+title = "Paulo Net"
+[author]
+name = "Paulo, Inc."
+[blackfriday]
+hrefTargetBlank = true
+[languages.pt-br]
+copyright = "<a href=\"https://creativecommons.org/licenses/by-nc/4.0/\" target=\"_blank\" rel=\"noopener\">CC BY-NC 4.0</a>"
+subtitle = "Personal Website"
+weight = 1
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "tags/"
+weight = 4
+[[menu.main]]
+identifier = "search"
+name = "Procurar"
+url = "search/"
+weight = 1
+[[menu.main]]
+identifier = "cloud"
+name = "Cloud"
+url = "https://cloud.paulonet.xyz/login"
+weight = 2
+[[menu.main]]
+identifier = "posts"
+name = "Blog"
+url = "posts"
+weight = 3
+[[menu.main]]
+identifier = "sobre"
+name = "Sobre"
+url = "sobre/"
+weight = 5
+[params]
+contentTypeName = "posts"
+customCSS = []
+customJS = []
+dateform = "Jan 2, 2006"
+dateformNum = "02-01-2006"
+dateformNumTime = "02-01-2006 15:04"
+dateformShort = "Jan 2"
+defaultTheme = "dark"
+description = "Site dedicado a conteudos tecnológicos e de cunho digital"
+disableReadOtherPosts = false
+gitUrl = "https://github.com/Xarchuser/yet-another-site/commit/"
+homeSubtitle = "Developer"
+images = []
+justifyContent = false
+keywords = ["Forestry", "Site", "Tech"]
+themeColor = "#252627"
+[params.favicon.color]
+mask = "#252627"
+msapplication = "#252627"
+theme = "#252627"
+[params.logo]
+alt = "Site's logo"
+logoCursorDisabled = true
+path = "/img/logo.svg"
+[[params.social]]
+name = "telegram"
+url = "#"
+[[params.social]]
+name = "email"
+url = "mailto:nobody@example.com"
+[[params.social]]
+name = "github"
+url = "#"
+[permalinks]
+posts = "/posts/:year/:month/:title/"
+[taxonomies]
+category = "categories"
+tag = "tags"

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nao sei on Paulo Network</title>
+    <link>https://pauloroxx.netlify.com/tags/nao-sei/</link>
+    <description>Recent content in nao sei on Paulo Network</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 05 Apr 2020 21:53:01 -0300</lastBuildDate>
+    
+	<atom:link href="https://pauloroxx.netlify.com/tags/nao-sei/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test Post</title>
+      <link>https://pauloroxx.netlify.com/posts/2020/04/test-post/</link>
+      <pubDate>Sun, 05 Apr 2020 21:53:01 -0300</pubDate>
+      
+      <guid>https://pauloroxx.netlify.com/posts/2020/04/test-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac tempor enim, a pharetra dui. Phasellus sem tellus, fringilla ac justo non, convallis egestas ante. Vestibulum hendrerit sodales elit sed convallis. Sed at ligula eget velit sagittis maximus. Sed urna turpis, mollis vel bibendum nec, pharetra quis diam. Maecenas sit amet gravida nisl, condimentum gravida ipsum. Pellentesque maximus velit ac sagittis sodales. Vivamus ullamcorper feugiat porttitor. Sed tristique eget diam quis semper.</description>
+    </item>
+    
+  </channel>
+</rss>
